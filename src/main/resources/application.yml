@@ -1,0 +1,11 @@
+server:
+  port: 64000
+  
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/mydb
+    username: asdasd
+    password: asdasdasd
+    
+app:
+  jwt-signing-key: ngk5434kdsfkj4390bfn901DM-D90F5p045M-AC0FvN.F8wV.N5V8V89l4NL18j489HeWBLF90oDfSD9D4bFDSL
